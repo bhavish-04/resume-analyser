@@ -1,0 +1,208 @@
+python
+java
+javascript
+typescript
+c++
+c#
+ruby
+go
+rust
+swift
+kotlin
+scala
+php
+r
+matlab
+sql
+nosql
+html
+css
+react
+angular
+vue
+node.js
+express
+django
+flask
+fastapi
+spring
+spring boot
+.net
+asp.net
+jquery
+bootstrap
+tailwind
+next.js
+nuxt.js
+svelte
+graphql
+rest api
+microservices
+docker
+kubernetes
+terraform
+ansible
+jenkins
+github actions
+gitlab ci
+ci/cd
+aws
+azure
+gcp
+google cloud
+heroku
+vercel
+netlify
+linux
+unix
+windows server
+nginx
+apache
+mongodb
+postgresql
+mysql
+redis
+elasticsearch
+cassandra
+dynamodb
+firebase
+sqlite
+oracle
+sql server
+machine learning
+deep learning
+natural language processing
+nlp
+computer vision
+tensorflow
+pytorch
+keras
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+opencv
+spacy
+hugging face
+transformers
+bert
+gpt
+llm
+data science
+data analysis
+data engineering
+data visualization
+big data
+hadoop
+spark
+kafka
+airflow
+etl
+power bi
+tableau
+looker
+statistics
+a/b testing
+git
+github
+gitlab
+bitbucket
+agile
+scrum
+kanban
+jira
+confluence
+trello
+unit testing
+integration testing
+selenium
+cypress
+jest
+pytest
+mocha
+postman
+swagger
+api design
+system design
+object oriented programming
+oop
+functional programming
+design patterns
+solid principles
+data structures
+algorithms
+problem solving
+communication
+teamwork
+leadership
+project management
+time management
+critical thinking
+analytical skills
+attention to detail
+presentation skills
+excel
+word
+powerpoint
+figma
+adobe xp
+sketch
+ui/ux
+responsive design
+mobile development
+android
+ios
+react native
+flutter
+xamarin
+blockchain
+web3
+solidity
+cybersecurity
+penetration testing
+network security
+cloud security
+devops
+sre
+site reliability
+monitoring
+logging
+grafana
+prometheus
+datadog
+splunk
+new relic
+oauth
+jwt
+authentication
+authorization
+websocket
+grpc
+rabbitmq
+celery
+multithreading
+concurrency
+parallel computing
+distributed systems
+load balancing
+caching
+cdn
+performance optimization
+seo
+accessibility
+wcag
+cross-browser compatibility
+version control
+code review
+technical writing
+documentation
+mentoring
+stakeholder management
+budgeting
+strategic planning
+business analysis
+requirements gathering
+user stories
+wireframing
+prototyping
